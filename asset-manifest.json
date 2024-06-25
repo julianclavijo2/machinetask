@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Users/julir/Desktop/JobHub/React/curso-react-intro-main/build/static/css/main.4bab751a.css",
-    "main.js": "/Users/julir/Desktop/JobHub/React/curso-react-intro-main/build/static/js/main.849e5024.js",
-    "static/media/main.png": "/Users/julir/Desktop/JobHub/React/curso-react-intro-main/build/static/media/main.59fa441a689f53392c46.png",
-    "static/media/triste.png": "/Users/julir/Desktop/JobHub/React/curso-react-intro-main/build/static/media/triste.c2ba73be4ab00d70abbb.png",
-    "static/media/complete.svg": "/Users/julir/Desktop/JobHub/React/curso-react-intro-main/build/static/media/complete.46aad0fe1297aecd584469e9f733d049.svg",
-    "index.html": "/Users/julir/Desktop/JobHub/React/curso-react-intro-main/build/index.html",
-    "static/media/delete.svg": "/Users/julir/Desktop/JobHub/React/curso-react-intro-main/build/static/media/delete.67697f56fd2f149bc9515a879062ad5c.svg",
-    "main.4bab751a.css.map": "/Users/julir/Desktop/JobHub/React/curso-react-intro-main/build/static/css/main.4bab751a.css.map",
-    "main.849e5024.js.map": "/Users/julir/Desktop/JobHub/React/curso-react-intro-main/build/static/js/main.849e5024.js.map"
+    "main.css": "/julianclavijo2/machinetask/static/css/main.4bab751a.css",
+    "main.js": "/julianclavijo2/machinetask/static/js/main.083de0b2.js",
+    "static/media/main.png": "/julianclavijo2/machinetask/static/media/main.59fa441a689f53392c46.png",
+    "static/media/triste.png": "/julianclavijo2/machinetask/static/media/triste.c2ba73be4ab00d70abbb.png",
+    "static/media/complete.svg": "/julianclavijo2/machinetask/static/media/complete.46aad0fe1297aecd584469e9f733d049.svg",
+    "index.html": "/julianclavijo2/machinetask/index.html",
+    "static/media/delete.svg": "/julianclavijo2/machinetask/static/media/delete.67697f56fd2f149bc9515a879062ad5c.svg",
+    "main.4bab751a.css.map": "/julianclavijo2/machinetask/static/css/main.4bab751a.css.map",
+    "main.083de0b2.js.map": "/julianclavijo2/machinetask/static/js/main.083de0b2.js.map"
   },
   "entrypoints": [
     "static/css/main.4bab751a.css",
-    "static/js/main.849e5024.js"
+    "static/js/main.083de0b2.js"
   ]
 }
